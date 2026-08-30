@@ -31,6 +31,9 @@ data/local/
 *.pem
 *.key
 
+#Claude
+.claude/
+
 # Logs
 *.log
 EOF
